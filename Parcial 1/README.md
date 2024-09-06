@@ -35,7 +35,11 @@ Objetivo: Los estudiantes identificarán características que hacen que ciertas 
 4.	Documentación:
 
    •	Cada equipo deberá entregar un informe que incluya:
+   
       •	Una descripción del software analizado y los problemas de usabilidad encontrados.
+      
       •	Una explicación detallada de las soluciones propuestas y cómo se implementaron en el prototipo.
+      
       •	El código fuente del prototipo en C++ con comentarios que expliquen cada sección relevante.
+      
       •	Capturas de pantalla o videos que muestren el prototipo en funcionamiento, resaltando las mejoras implementadas.
