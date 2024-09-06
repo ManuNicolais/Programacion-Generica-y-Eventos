@@ -1,4 +1,4 @@
-# Parcial 1 prototipo de implementacion de modificaciones en el motor de desarrollo de videojuegos Godot 4.2 
+## Parcial 1 prototipo de implementacion de modificaciones en el motor de desarrollo de videojuegos Godot 4.2 
 
 <h1 align="center">
 Consigna: Análisis y Mejora de la Interfaz de Usuario en Software utilizando C++	
@@ -15,7 +15,7 @@ Objetivo: Los estudiantes identificarán características que hacen que ciertas 
 •	Identificar las características específicas que hacen que el software sea difícil de usar o poco amigable para el usuario.
 
 •	Documentar estas características y justificar por qué representan un problema desde la perspectiva del usuario.
-
+# 
 2.	Propuesta de Mejora:
 
 •	Basándose en los problemas identificados, cada equipo desarrollará un prototipo funcional en C++ que incluya mejoras a través de:
