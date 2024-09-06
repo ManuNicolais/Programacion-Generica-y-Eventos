@@ -1,5 +1,7 @@
 ## Parcial 1 prototipo de implementacion de modificaciones en el motor de desarrollo de videojuegos Godot 4.2 
 
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png
+
 <h1 align="center">
 Consigna: Análisis y Mejora de la Interfaz de Usuario en Software utilizando C++	
 </h1>
