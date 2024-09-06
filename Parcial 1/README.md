@@ -1,10 +1,7 @@
-Parcial 1 prototipo de implementacion de modificaciones en el motor de desarrollo de videojuegos Godot 4.2
+##Parcial 1 prototipo de implementacion de modificaciones en el motor de desarrollo de videojuegos Godot 4.2 
 
 <h1 align="center">
-	<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
-Consigna: Análisis y Mejora de la Interfaz de Usuario en Software utilizando C++
-	<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
-	
+Consigna: Análisis y Mejora de la Interfaz de Usuario en Software utilizando C++	
 </h1>
 
 Objetivo: Los estudiantes identificarán características que hacen que ciertas aplicaciones de software sean poco amigables con el usuario y propondrán mejoras mediante la implementación de “esqueletos C++” utilizando conceptos de Callbacks, Bucles, Eventos Paint, y Funciones de Conversión.
