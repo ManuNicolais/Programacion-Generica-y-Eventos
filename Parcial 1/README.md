@@ -27,12 +27,12 @@ Objetivo: Los estudiantes identificarán características que hacen que ciertas 
    •	Eventos Paint: Modificación de la apariencia de la interfaz en tiempo real según las interacciones del usuario.
    
    •	Funciones de Conversión: Integración de funciones que faciliten la adaptación de formatos o tipos de datos según las necesidades del usuario.
-   
+#
 3.	Desarrollo del Prototipo:
-4.	
+
    •	Crear un prototipo en C++ que implemente las soluciones propuestas. Este prototipo no tiene que ser un programa completo, pero sí debe demostrar claramente cómo las mejoras propuestas resuelven los problemas de usabilidad identificados.
-  	
-5.	Documentación:
+#
+4.	Documentación:
 
    •	Cada equipo deberá entregar un informe que incluya:
       •	Una descripción del software analizado y los problemas de usabilidad encontrados.
