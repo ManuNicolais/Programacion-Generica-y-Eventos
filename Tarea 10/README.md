@@ -1,7 +1,7 @@
 # 10 Ejercicios hechos en VISUAL STUDIO usando WinForms y WPF(.NET)
 
 ## 1. CONVERTIR TEMPERATURA
-    Crea una aplicación en WinForms que permita al usuario ingresar una temperatura en grados Celsius y la convierta a Fahrenheit utilizando una función de conversión.
+Crea una aplicación en WinForms que permita al usuario ingresar una temperatura en grados Celsius y la convierta a Fahrenheit utilizando una función de conversión.
 
 ## 2. DIBUJO LIBRE EN WPF
     En WPF, desarrolla una aplicación que permita al usuario realizar dibujos libres en un lienzo. Utiliza funciones de visualización para representar las líneas dibujadas.
