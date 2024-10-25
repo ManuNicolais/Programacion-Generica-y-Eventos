@@ -17,6 +17,7 @@ El usuario puede decidir si es que quiere prender o apagar el uso de su cámara 
 Con el botón Ayuda se puede acceder a un repositorio de GitHub el cual contiene información del programa, las señas que puede reconocer y como utilizarse.
 
 # Gestos
+En este apartado se mencionaran los diferentes gestos que puede hacer el usuario. Se recomienda su uso en modo administrador para las aplicaciones como el teclado en pantalla. 
 
 ## -	Índice:
 Con este dedo podemos controlar el mouse si se detecta una mano.
