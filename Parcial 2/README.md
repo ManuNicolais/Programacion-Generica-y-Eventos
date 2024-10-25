@@ -16,5 +16,6 @@ Este dedo lo utilizamos para hacer scroll en la pantalla. Debemos levantarlo y c
 -	Pulgar:
 El pulgar despliega el Teclado en Pantalla para poder escribir texto solo con la mano haciendo click. Para poder transcribir el texto debemos ejecutar el programa en modo Administrador.
 
+Parcial 2/Gestos/Cerrar el Porograma.png
 -	Medio:
 Este dedo simplemente es una forma rápida de cerrar el programa si es que ocurre algún error.
