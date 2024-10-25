@@ -4,6 +4,7 @@ Una vez el programa este abierto, se puede ver el widget que nos permite empezar
 -	Índice:
 Con este dedo podemos mover el mouse, el programa siempre puede detectar una mano al verla desde la cámara. Pero al mostrar el índice nos permite controlarlo.
 
+![Manejo_de_Dialogos](./Images/Captura%20de%20pantalla%20(420).png)
 -	Índice + medio:
 Esta combinación de dedos nos permitirá hacer click en donde se encuentre el mouse.
 
