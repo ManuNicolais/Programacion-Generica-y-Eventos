@@ -47,3 +47,11 @@ Migrar 4 proyectos hechos en C++ a WinForm
 ### Tarea 10 | Visual Studio
 
 Aplicacione usando WinForm y WPF(.NET) con Entorno Gráfico
+
+### Parcial 1 | Visual Studio
+
+Mejoras en la interfaz de Godot Engine para ayudar o facilitar el desarrollo al usuario
+
+### Parcial 2 | Visual Studio | Hand Tracker
+
+Desarrollo de aplicacion para controlar el mouse medante gestos con la mano
