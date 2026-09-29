@@ -1,0 +1,14 @@
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\bin\Debug\net8.0\Parte 3.exe
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\bin\Debug\net8.0\Parte 3.deps.json
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\bin\Debug\net8.0\Parte 3.runtimeconfig.json
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\bin\Debug\net8.0\Parte 3.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\bin\Debug\net8.0\Parte 3.pdb
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\obj\Debug\net8.0\Parte 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\obj\Debug\net8.0\Parte 3.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\obj\Debug\net8.0\Parte 3.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\obj\Debug\net8.0\Parte 3.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\obj\Debug\net8.0\Parte 3.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\obj\Debug\net8.0\refint\Parte 3.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\obj\Debug\net8.0\Parte 3.pdb
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\obj\Debug\net8.0\Parte 3.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8 - Parte 3\Parte1\Parte1\obj\Debug\net8.0\ref\Parte 3.dll

@@ -1,0 +1,6 @@
+18/9/2024 15:55:41: Archivo escrito exitosamente en Escritorio
+18/9/2024 15:55:48: Archivo leído exitosamente desde Escritorio
+18/9/2024 15:55:59: División realizada: 2 / 4 = 0,5
+18/9/2024 15:56:06: Error: El formato de la cadena no es válido. Detalles: The input string 'uno' was not in a correct format.
+18/9/2024 15:56:17: Conversión exitosa de cadena a número: 1111 -> 1111
+18/9/2024 16:01:26: Conversión exitosa de cadena a número: 121231312 -> 121231312

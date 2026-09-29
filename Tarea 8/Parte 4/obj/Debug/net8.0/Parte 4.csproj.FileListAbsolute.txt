@@ -1,0 +1,14 @@
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\bin\Debug\net8.0\Parte 4.exe
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\bin\Debug\net8.0\Parte 4.deps.json
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\bin\Debug\net8.0\Parte 4.runtimeconfig.json
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\bin\Debug\net8.0\Parte 4.dll
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\bin\Debug\net8.0\Parte 4.pdb
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\obj\Debug\net8.0\Parte 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\obj\Debug\net8.0\Parte 4.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\obj\Debug\net8.0\Parte 4.AssemblyInfo.cs
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\obj\Debug\net8.0\Parte 4.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\obj\Debug\net8.0\Parte 4.dll
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\obj\Debug\net8.0\refint\Parte 4.dll
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\obj\Debug\net8.0\Parte 4.pdb
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\obj\Debug\net8.0\Parte 4.genruntimeconfig.cache
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte 4\obj\Debug\net8.0\ref\Parte 4.dll

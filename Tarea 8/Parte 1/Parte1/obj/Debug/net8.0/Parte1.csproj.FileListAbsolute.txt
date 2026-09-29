@@ -1,0 +1,28 @@
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\bin\Debug\net8.0\Parte1.exe
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\bin\Debug\net8.0\Parte1.deps.json
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\bin\Debug\net8.0\Parte1.runtimeconfig.json
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\bin\Debug\net8.0\Parte1.dll
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\bin\Debug\net8.0\Parte1.pdb
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.AssemblyInfo.cs
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.dll
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\obj\Debug\net8.0\refint\Parte1.dll
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.pdb
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.genruntimeconfig.cache
+C:\Users\gonza\Documents\PGE COMMUNITY\Parte1 - Tarea 8\Parte1\Parte1\obj\Debug\net8.0\ref\Parte1.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\bin\Debug\net8.0\Parte1.exe
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\bin\Debug\net8.0\Parte1.deps.json
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\bin\Debug\net8.0\Parte1.runtimeconfig.json
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\bin\Debug\net8.0\Parte1.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\bin\Debug\net8.0\Parte1.pdb
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\obj\Debug\net8.0\refint\Parte1.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.pdb
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\obj\Debug\net8.0\Parte1.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 8\Parte1\Parte1\obj\Debug\net8.0\ref\Parte1.dll
