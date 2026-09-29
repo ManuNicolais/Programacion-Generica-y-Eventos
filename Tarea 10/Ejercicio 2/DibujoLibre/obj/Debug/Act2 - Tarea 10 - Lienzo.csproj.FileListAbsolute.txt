@@ -1,0 +1,28 @@
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\bin\Debug\Act2 - Tarea 10 - Lienzo.exe.config
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\bin\Debug\Act2 - Tarea 10 - Lienzo.exe
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\bin\Debug\Act2 - Tarea 10 - Lienzo.pdb
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\obj\Debug\Act2 - Tarea 10 - Lienzo.csproj.AssemblyReference.cache
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\obj\Debug\MainWindow.g.cs
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\obj\Debug\App.g.cs
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\obj\Debug\Act2 - Tarea 10 - Lienzo_MarkupCompile.cache
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\obj\Debug\MainWindow.baml
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\obj\Debug\Act2 - Tarea 10 - Lienzo.g.resources
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\obj\Debug\Act2___Tarea_10___Lienzo.Properties.Resources.resources
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\obj\Debug\Act2 - Tarea 10 - Lienzo.csproj.GenerateResource.cache
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\obj\Debug\Act2 - Tarea 10 - Lienzo.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\obj\Debug\Act2 - Tarea 10 - Lienzo.exe
+C:\Users\gonza\Documents\PGE COMMUNITY\Act2 - Tarea 10 - Lienzo\obj\Debug\Act2 - Tarea 10 - Lienzo.pdb
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\bin\Debug\Act2 - Tarea 10 - Lienzo.exe.config
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\bin\Debug\Act2 - Tarea 10 - Lienzo.exe
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\bin\Debug\Act2 - Tarea 10 - Lienzo.pdb
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\obj\Debug\Act2 - Tarea 10 - Lienzo.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\obj\Debug\MainWindow.baml
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\obj\Debug\MainWindow.g.cs
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\obj\Debug\App.g.cs
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\obj\Debug\Act2 - Tarea 10 - Lienzo_MarkupCompile.cache
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\obj\Debug\Act2 - Tarea 10 - Lienzo.g.resources
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\obj\Debug\Act2___Tarea_10___Lienzo.Properties.Resources.resources
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\obj\Debug\Act2 - Tarea 10 - Lienzo.csproj.GenerateResource.cache
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\obj\Debug\Act2 - Tarea 10 - Lienzo.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\obj\Debug\Act2 - Tarea 10 - Lienzo.exe
+C:\Users\manue\OneDrive\Escritorio\Tarea10\Ejercicio 2\DibujoLibre\obj\Debug\Act2 - Tarea 10 - Lienzo.pdb

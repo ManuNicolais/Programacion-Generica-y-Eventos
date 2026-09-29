@@ -1,0 +1,10 @@
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Ejercicio 3\RegistroDeGastos\bin\Debug\RegistroDeGastos.exe.config
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Ejercicio 3\RegistroDeGastos\bin\Debug\RegistroDeGastos.exe
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Ejercicio 3\RegistroDeGastos\bin\Debug\RegistroDeGastos.pdb
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Ejercicio 3\RegistroDeGastos\obj\Debug\RegistroDeGastos.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Ejercicio 3\RegistroDeGastos\obj\Debug\RegistroDeGastos.Form1.resources
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Ejercicio 3\RegistroDeGastos\obj\Debug\RegistroDeGastos.Properties.Resources.resources
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Ejercicio 3\RegistroDeGastos\obj\Debug\RegistroDeGastos.csproj.GenerateResource.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Ejercicio 3\RegistroDeGastos\obj\Debug\RegistroDeGastos.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Ejercicio 3\RegistroDeGastos\obj\Debug\RegistroDeGastos.exe
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Ejercicio 3\RegistroDeGastos\obj\Debug\RegistroDeGastos.pdb

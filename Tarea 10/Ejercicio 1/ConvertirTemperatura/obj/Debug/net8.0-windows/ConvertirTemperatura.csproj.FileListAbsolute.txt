@@ -1,0 +1,16 @@
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\bin\Debug\net8.0-windows\ConvertirTemperatura.exe
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\bin\Debug\net8.0-windows\ConvertirTemperatura.deps.json
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\bin\Debug\net8.0-windows\ConvertirTemperatura.runtimeconfig.json
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\bin\Debug\net8.0-windows\ConvertirTemperatura.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\bin\Debug\net8.0-windows\ConvertirTemperatura.pdb
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\obj\Debug\net8.0-windows\ConvertirTemperatura.Form1.resources
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\obj\Debug\net8.0-windows\ConvertirTemperatura.csproj.GenerateResource.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\obj\Debug\net8.0-windows\ConvertirTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\obj\Debug\net8.0-windows\ConvertirTemperatura.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\obj\Debug\net8.0-windows\ConvertirTemperatura.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\obj\Debug\net8.0-windows\ConvertirTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\obj\Debug\net8.0-windows\ConvertirTemperatura.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\obj\Debug\net8.0-windows\refint\ConvertirTemperatura.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\obj\Debug\net8.0-windows\ConvertirTemperatura.pdb
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\obj\Debug\net8.0-windows\ConvertirTemperatura.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Tarea 10\Enunciado 1\ConvertirTemperatura\obj\Debug\net8.0-windows\ref\ConvertirTemperatura.dll

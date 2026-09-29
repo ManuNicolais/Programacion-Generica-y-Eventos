@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConvertirTemperatura/1.0.0": {
+        "runtime": {
+          "ConvertirTemperatura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertirTemperatura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
