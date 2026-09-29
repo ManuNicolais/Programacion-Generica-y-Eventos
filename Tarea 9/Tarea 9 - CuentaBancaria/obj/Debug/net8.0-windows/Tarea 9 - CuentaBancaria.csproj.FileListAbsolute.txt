@@ -1,0 +1,16 @@
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\bin\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.exe
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\bin\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.deps.json
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\bin\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.runtimeconfig.json
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\bin\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.dll
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\bin\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.pdb
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\obj\Debug\net8.0-windows\CuentaBancariaApp.Form1.resources
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\obj\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.csproj.GenerateResource.cache
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\obj\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\obj\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\obj\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.AssemblyInfo.cs
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\obj\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\obj\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.dll
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\obj\Debug\net8.0-windows\refint\Tarea 9 - CuentaBancaria.dll
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\obj\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.pdb
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\obj\Debug\net8.0-windows\Tarea 9 - CuentaBancaria.genruntimeconfig.cache
+C:\Users\gonza\source\repos\Tarea 9 - CuentaBancaria\obj\Debug\net8.0-windows\ref\Tarea 9 - CuentaBancaria.dll

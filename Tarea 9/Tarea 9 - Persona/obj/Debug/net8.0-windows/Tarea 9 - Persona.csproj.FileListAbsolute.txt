@@ -1,0 +1,16 @@
+C:\Users\gonza\source\repos\Tarea 9 - Persona\obj\Debug\net8.0-windows\Tarea 9 - Persona.csproj.GenerateResource.cache
+C:\Users\gonza\source\repos\Tarea 9 - Persona\obj\Debug\net8.0-windows\Tarea 9 - Persona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\Tarea 9 - Persona\obj\Debug\net8.0-windows\Tarea 9 - Persona.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\Tarea 9 - Persona\obj\Debug\net8.0-windows\Tarea 9 - Persona.AssemblyInfo.cs
+C:\Users\gonza\source\repos\Tarea 9 - Persona\obj\Debug\net8.0-windows\Tarea 9 - Persona.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Tarea 9 - Persona\bin\Debug\net8.0-windows\Tarea 9 - Persona.exe
+C:\Users\gonza\source\repos\Tarea 9 - Persona\bin\Debug\net8.0-windows\Tarea 9 - Persona.deps.json
+C:\Users\gonza\source\repos\Tarea 9 - Persona\bin\Debug\net8.0-windows\Tarea 9 - Persona.runtimeconfig.json
+C:\Users\gonza\source\repos\Tarea 9 - Persona\bin\Debug\net8.0-windows\Tarea 9 - Persona.dll
+C:\Users\gonza\source\repos\Tarea 9 - Persona\bin\Debug\net8.0-windows\Tarea 9 - Persona.pdb
+C:\Users\gonza\source\repos\Tarea 9 - Persona\obj\Debug\net8.0-windows\Tarea 9 - Persona.dll
+C:\Users\gonza\source\repos\Tarea 9 - Persona\obj\Debug\net8.0-windows\refint\Tarea 9 - Persona.dll
+C:\Users\gonza\source\repos\Tarea 9 - Persona\obj\Debug\net8.0-windows\Tarea 9 - Persona.pdb
+C:\Users\gonza\source\repos\Tarea 9 - Persona\obj\Debug\net8.0-windows\Tarea 9 - Persona.genruntimeconfig.cache
+C:\Users\gonza\source\repos\Tarea 9 - Persona\obj\Debug\net8.0-windows\ref\Tarea 9 - Persona.dll
+C:\Users\gonza\source\repos\Tarea 9 - Persona\obj\Debug\net8.0-windows\Tarea9Persona.Form1.resources

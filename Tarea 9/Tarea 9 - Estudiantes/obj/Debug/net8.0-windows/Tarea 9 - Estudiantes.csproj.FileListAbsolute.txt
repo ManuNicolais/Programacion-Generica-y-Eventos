@@ -1,0 +1,16 @@
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\bin\Debug\net8.0-windows\Tarea 9 - Estudiantes.exe
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\bin\Debug\net8.0-windows\Tarea 9 - Estudiantes.deps.json
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\bin\Debug\net8.0-windows\Tarea 9 - Estudiantes.runtimeconfig.json
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\bin\Debug\net8.0-windows\Tarea 9 - Estudiantes.dll
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\bin\Debug\net8.0-windows\Tarea 9 - Estudiantes.pdb
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\obj\Debug\net8.0-windows\Tarea9Estudiantes.Form1.resources
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\obj\Debug\net8.0-windows\Tarea 9 - Estudiantes.csproj.GenerateResource.cache
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\obj\Debug\net8.0-windows\Tarea 9 - Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\obj\Debug\net8.0-windows\Tarea 9 - Estudiantes.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\obj\Debug\net8.0-windows\Tarea 9 - Estudiantes.AssemblyInfo.cs
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\obj\Debug\net8.0-windows\Tarea 9 - Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\obj\Debug\net8.0-windows\Tarea 9 - Estudiantes.dll
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\obj\Debug\net8.0-windows\refint\Tarea 9 - Estudiantes.dll
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\obj\Debug\net8.0-windows\Tarea 9 - Estudiantes.pdb
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\obj\Debug\net8.0-windows\Tarea 9 - Estudiantes.genruntimeconfig.cache
+C:\Users\gonza\source\repos\Tarea 9 - Estudiantes\obj\Debug\net8.0-windows\ref\Tarea 9 - Estudiantes.dll
