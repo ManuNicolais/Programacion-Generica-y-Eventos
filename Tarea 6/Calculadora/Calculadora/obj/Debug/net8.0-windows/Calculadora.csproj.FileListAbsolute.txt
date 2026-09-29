@@ -1,0 +1,16 @@
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.exe
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.deps.json
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.runtimeconfig.json
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.pdb
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.Form1.resources
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\obj\Debug\net8.0-windows\refint\Calculadora.dll
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Calcu\Calculadora\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll
