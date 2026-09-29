@@ -1,0 +1,8 @@
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo3\bin\Debug\ejemplo3.exe.config
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo3\bin\Debug\ejemplo3.exe
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo3\bin\Debug\ejemplo3.pdb
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo3\obj\Debug\ejemplo3.csproj.AssemblyReference.cache
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo3\obj\Debug\ejemplo3.csproj.SuggestedBindingRedirects.cache
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo3\obj\Debug\ejemplo3.csproj.CoreCompileInputs.cache
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo3\obj\Debug\ejemplo3.exe
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo3\obj\Debug\ejemplo3.pdb

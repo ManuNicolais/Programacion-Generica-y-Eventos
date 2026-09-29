@@ -1,0 +1,5 @@
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Ejemplo WPF\Calculadora En WPF\obj\Debug\Calculadora En WPF.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Ejemplo WPF\Calculadora En WPF\obj\Debug\MainWindow.g.cs
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Ejemplo WPF\Calculadora En WPF\obj\Debug\App.g.cs
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Ejemplo WPF\Calculadora En WPF\obj\Debug\Calculadora En WPF_MarkupCompile.cache
+C:\Users\manue\OneDrive\Documentos\Visual Studio Comunidad\Ejemplo WPF\Calculadora En WPF\obj\Debug\Calculadora En WPF_MarkupCompile.lref
